@@ -38,7 +38,7 @@ Reader/
 <img height="400px" alt="Simulator Screenshot - iPhone 16 - 2025-09-19 at 10 38 30" src="https://github.com/user-attachments/assets/365c6967-4bed-4f41-ad25-3dd5fdfa1bfd" />
 <img height="400px" alt="Simulator Screenshot - iPhone 16 - 2025-09-19 at 10 38 23" src="https://github.com/user-attachments/assets/cc105171-80b1-4966-ad43-7882c107f1d9" />
 
-## Features (All the features implemented mentioned in Task doc)
+## Features
 * Home screen where user can see all the top headlines
 * Pull to refreash feature
 * User can bookmark any article
