@@ -27,11 +27,11 @@ Reader/
 ## Summary
 | Layer | Responsibility |
 |---------------|-------------------------------------------|
-| Model —- API
-| View —- view controllers, cell
-| ViewModel — Logic, data transformation, bindings
-| Api Service — API calls
-| Core Data — Persistent storage
+| Model —- | API
+| View —- | view controllers, cell
+| ViewModel — | Logic, data transformation, bindings
+| Api Service — | API calls
+| Core Data — | Persistent storage
 
 ## Screenshots
 
