@@ -8,7 +8,8 @@ The app follows the **Model-View-ViewModel (MVVM)** architecture to maintain a c
 separation of concerns, modular code structure, and improved testability.
 
 ## Folder Structure
-Cinemate/
+```
+Reader/
 ├── App/ |── MainTab/
 │ ├── Home/ │ │ 
 │ │ ├── View/
@@ -16,12 +17,13 @@ Cinemate/
 │ ├── Bookmark/ │ ├── Model/
 │ ├── View/
 │ ├── ViewModel/
+```
 
-# Home screen features
-# Bookmark screen features
-# Custom Tab Bar Controller
-# API Layer (requests, models, decoding, etc.)
-# Local storage management (DataManager, entities)
+* Home screen features
+* Bookmark screen features
+* Custom Tab Bar Controller
+* API Layer (requests, models, decoding, etc.)
+* Local storage management (DataManager, entities)
 ## Summary
 | Layer | Responsibility |
 |---------------|-------------------------------------------|
@@ -33,14 +35,14 @@ Cinemate/
 
 ## Screenshots
 
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-09-19 at 10 38 30" src="https://github.com/user-attachments/assets/365c6967-4bed-4f41-ad25-3dd5fdfa1bfd" />
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-09-19 at 10 38 23" src="https://github.com/user-attachments/assets/cc105171-80b1-4966-ad43-7882c107f1d9" />
+<img height="400px" alt="Simulator Screenshot - iPhone 16 - 2025-09-19 at 10 38 30" src="https://github.com/user-attachments/assets/365c6967-4bed-4f41-ad25-3dd5fdfa1bfd" />
+<img height="400px" alt="Simulator Screenshot - iPhone 16 - 2025-09-19 at 10 38 23" src="https://github.com/user-attachments/assets/cc105171-80b1-4966-ad43-7882c107f1d9" />
 
 ## Features (All the features implemented mentioned in Task doc)
-- Home screen where user can see all the top headlines
-- Pull to refreash feature
-- User can bookmark any article
-- Bookmark tab for accessing bookmark articles
-- User can search article 
-- Light/Dark Mode
+* Home screen where user can see all the top headlines
+* Pull to refreash feature
+* User can bookmark any article
+* Bookmark tab for accessing bookmark articles
+* User can search article 
+* Light/Dark Mode
   
